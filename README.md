@@ -1,16 +1,25 @@
-## Hi there 👋
+# Cortexnox
 
-<!--
-**cortexnox/cortexnox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer**
 
-Here are some ideas to get you started:
+Building useful things with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work with Telegram bots, backend logic and database integration.
+
+### Tech
+
+`Python` `aiogram 3` `SQLite` `asyncio` `Git`
+
+### Selected Projects
+
+**[telegram-booking-bot](https://github.com/cortexnox/telegram-booking-bot)**
+
+Appointment booking and reservation management through Telegram.
+
+**[telegram-coffee-shop-bot](https://github.com/cortexnox/telegram-coffee-shop-bot)**
+
+Product catalog, shopping cart and order management for a coffee shop.
+
+---
+
+*Less talk. More code.*
